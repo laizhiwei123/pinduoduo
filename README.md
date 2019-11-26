@@ -1,1 +1,1 @@
-# pimduoduo
+# pinduoduo
